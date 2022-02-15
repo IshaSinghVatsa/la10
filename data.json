@@ -1,0 +1,23 @@
+[
+    {"tick_id": 101, "match_name": "Football", "cust_name": "Isha Singh Vatsa", 
+        "match_date":"2022-03-23","age":30, "amount":3000
+    },
+    {"tick_id": 102, "match_name": "Cricket", "cust_name": "Harshita Verma", 
+        "match_date":"2022-03-23","age":25, "amount":3000
+    },
+    {"tick_id": 103, "match_name": "Volleyball", "cust_name": "Alisha", 
+        "match_date":"2022-03-23", "age":25, "amount":3000
+    },
+    {"tick_id": 104, "match_name": "Badminton", "cust_name": "Shikha", 
+        "match_date":"2022-03-23", "age":23, "amount":3000
+    },
+    {"tick_id": 105, "match_name": "Hockey", "cust_name": "Vithika", 
+        "match_date":"2022-03-23","age":24, "amount":3000
+    },
+    {"tick_id": 106, "match_name": "Tennis", "cust_name": "Trisha", 
+        "match_date":"2022-03-23","age":22, "amount":3000
+    },
+    {"tick_id": 107, "match_name": "Lawn Tennis", "cust_name": "Teyash", 
+        "match_date":"2022-03-23", "age":26, "amount":3000
+    }
+]
